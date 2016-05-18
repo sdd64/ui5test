@@ -19,7 +19,9 @@ sap.ui.define([], function() {
 		
 		aNewFunction: function(sValue){
 		    return;
-		}
+		},
+		
+		anotherFunction : function(){}
 	};
 
 });
